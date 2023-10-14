@@ -10,8 +10,7 @@
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Contributing](#Contributing)
-- [License](#License)
-- [Acknowledgements](#Acknowledgements)
+
 
 ## **Introduction**
 
